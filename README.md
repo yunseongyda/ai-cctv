@@ -59,6 +59,21 @@ _class: lead
 
 ---
 
+
+<!-- _class: lead -->
+![width:700](img/cctvEx.jpg)집 앞 도로.
+
+---
+
+<!-- _class: lead -->
+![width:700](img/judging.png)
+
+---
+<!-- _class: lead -->
+![width:700](img/warningAlert.png)
+
+---
+
 # 사용 기술
 - 딥러닝 기반 **행동 인식 모델** (YOLO, OpenPose 등)
 - 영상 분석 + IoT 카메라 연동
